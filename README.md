@@ -1,1 +1,42 @@
-# coin-counting-size-based-sorting
+# Coin Counting and Size-Based Sorting Machine
+
+## Description
+This project is an Arduino-based coin counting and sorting system.
+Coins are detected and counted using an IR sensor.
+Sorting is done based on coin size using a foam sheet with square cut-outs.
+No motors or servos are used; sorting is achieved through mechanical design.
+
+## Working Principle
+- A coin is inserted into the system
+- IR sensor detects the coin passage
+- Arduino increments the coin count
+- Coin passes through a foam sheet
+- Smaller coins pass through first
+- Larger coins are sorted later based on size
+
+## Components Used
+- Arduino UNO
+- IR Sensor
+- Foam sheet (with square cut-outs)
+- Breadboard
+- Jumper wires
+- Power supply
+
+## Features
+- Accurate coin counting
+- Size-based mechanical sorting
+- Low-cost and simple design
+- No motors or actuators used
+
+## Applications
+- Coin-operated machines
+- Small-scale vending systems
+- Educational embedded system projects
+
+## Future Improvements
+- Display total count using LCD
+- Different bins for each coin type
+- Digital logging of coin count
+
+## Author
+Om Dattatray Sonone

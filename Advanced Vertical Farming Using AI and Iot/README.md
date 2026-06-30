@@ -1,5 +1,8 @@
 # AI-Powered Smart Agriculture System
 
+## Complet Project is in the link 
+https://drive.google.com/drive/folders/1-7FnPplfIULVrGg97oWM0P5t9U_qe1oY?usp=drive_link
+
 ## Project Overview
 
 The AI-Powered Smart Agriculture System is an IoT and Artificial Intelligence based solution designed for smart farming and vertical farming applications. The system collects environmental data using ESP32 sensors, captures plant images through an ESP32-CAM module, detects plant diseases using AI models, and displays real-time information through a web dashboard.
